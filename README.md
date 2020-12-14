@@ -32,4 +32,6 @@ $ py manage.py makemigrations
 
 $ py manage.py migrate
 // Tạo db
+
+$ py manage.py createsuperuser
 ```
